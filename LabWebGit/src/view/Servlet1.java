@@ -17,6 +17,7 @@ public class Servlet1 extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.println("<h3>Servlet1:"+time+"</h3>");
 		out.println("hahaha");
+		out.println("我是第3次commit阿  哈哈哈");
 		out.close();
 	}
 
