@@ -14,7 +14,7 @@
 		<url-pattern>/servlet1.view</url-pattern>
 	</servlet-mapping>
 	
-	
+
 	<servlet>
 		<servlet-name>Servlet2</servlet-name>
 		<servlet-class>view.Servlet2</servlet-class>

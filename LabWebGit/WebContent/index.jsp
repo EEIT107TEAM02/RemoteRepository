@@ -14,6 +14,8 @@
 <h3>Home</h3>
 
 <h3><a href="<c:url value="/servlet1.view" />">Servlet1</a></h3>
+
+
 <h3><a href="<c:url value="/servlet2.view" />">Servlet2</a></h3>
 
 
