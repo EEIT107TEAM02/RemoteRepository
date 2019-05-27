@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h3>Home02</h3>
+<h3>Home0203</h3>
 
 <h3><a href="<c:url value="/servlet1.view" />">Servlet1</a></h3>
 
